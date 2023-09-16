@@ -1,4 +1,10 @@
-# JavaScript30 - Day 6: Type Ahead## Live Demo 
+# JavaScript30 - Day 6: Type Ahead
+
+
+https://github.com/makwanachirag427/javascript30-day-6---type-ahead/assets/128345607/df1e6215-a9db-47d6-9aa4-285927a3b8f2
+
+
+## Live Demo 
 https://makwanachirag427.github.io/javascript30-day-6---type-ahead/
 
 ## Project Description
